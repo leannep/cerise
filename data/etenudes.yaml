@@ -1,0 +1,317 @@
+---
+-
+# See also:  https://docs.google.com/spreadsheets/d/e/2PACX-1vQrmdDf0mJD-oCCzCiXVcUyVghZlayKtH3D9Ha2wm7-od8usnnaIL9v9T3C41fP2WWoOtAnqbzD2Wvu/pub?gid=0&single=true&output=csv
+    names: ASASSN
+    area: 0.015
+    FOV: 140
+    etendue: 2.4
+    npix: 34
+    year: 2014
+    location: CL
+    comments: needs to be updated, 24 telescopes today
+-
+    names: ATLAS
+    area: 0.196
+    FOV: 29.16
+    etendue: 22.9
+    npix: 205
+    year: 2017
+    location: US-CL-SA
+    comments: 4 telescopes
+-
+    names: BlackGEM
+    area: 0.33
+    FOV: 2.7
+    etendue: 13.4
+    npix: 1653
+    year: 2022
+    location: CL
+    comments: 15 telescopes
+-
+    names: Blanco-DECam
+    area: 12.566
+    FOV: 3
+    etendue: 37.7
+    npix: 520
+    year: 2012
+    location: CL
+    comments:
+-
+    names: Clay-MegaCam
+    area: 33.183
+    FOV: 0.16
+    etendue: 5.31
+    npix: 340
+    year: 2015
+    location: CL
+    comments:
+-
+    names: CFHT-MegaCam
+    area: 10
+    FOV: 1
+    etendue: 10
+    npix: 340
+    year: 2003
+    location: US
+    comments:
+-
+    names: CRTS-MLS
+    area: 1.7
+    FOV: 1.2
+    etendue: 2.04
+    npix: 16
+    year: 2009
+    location: US
+    comments:
+-
+    names: CRTS-CSS
+    area: 0.4
+    FOV: 8.1
+    etendue: 3.24
+    npix: 16
+    year: 2009
+    location: US
+    comments:
+-
+    names: CRTS-SSS
+    area: 0.2
+    FOV: 4.2
+    etendue: 0.84
+    npix: 16
+    year: 2009
+    location: US
+    comments:
+-
+    names: #E-ELT
+    area: 1116
+    FOV: 0.03
+    etendue: 31
+    npix: 144
+    year: 2025
+    location: CL
+    comments: max FoV, npix assuming 0.05" per pixel
+-
+    names: Euclid
+    area: 1.13
+    FOV: 0.53
+    etendue: 0.599
+    npix: 527
+    year: 2020
+    location: space
+    comments:
+-
+    names: Evryscope
+    area: 0.00385
+    FOV: 9060
+    etendue: 34.8
+    npix: 700
+    year: 2017
+    location: CL
+    comments:
+-
+    names: Gaia
+    area: 0.7
+    FOV: 2.04
+    etendue: 1.428
+    npix: 952
+    year: 2013
+    location: space
+    comments:
+-
+    names: #GMT
+    area: 368
+    FOV: 0.11
+    etendue: 40.5
+    npix: 576
+    year: 2024
+    location: CL
+    comments: max FoV, npix assuming 0.05" per pixel
+-
+    names: HATPI
+    area: 0.008
+    FOV: 5000
+    etendue: 39
+    npix: 264
+    year: 2019
+    location: CL
+    comments:
+-
+    names: Kepler
+    area: 0.7
+    FOV: 115
+    etendue: 80.5
+    npix: 95
+    year: 2009
+    location: space
+    comments:
+-
+    names: KMTNet
+    area: 1.5
+    FOV: 4
+    etendue: 18
+    npix: 324
+    year: 2015
+    location: CL-SA-AU
+    comments: 3 telescopes
+-
+    names: #KMTNet-CL
+    area: 1.5
+    FOV: 4
+    etendue: 6
+    npix: 324
+    year: 2015
+    location: CL
+    comments:
+-
+    names: #KMTNet-SA
+    area: 1.5
+    FOV: 4
+    etendue: 6
+    npix: 324
+    year: 2015
+    location: SA
+    comments:
+-
+    names: #KMTNet-AU
+    area: 1.5
+    FOV: 4
+    etendue: 6
+    npix: 324
+    year: 2015
+    location: AU
+    comments:
+-
+    names: KISO
+    area: 0.87
+    FOV: 4.84
+    etendue: 4.191
+    npix: 64
+    year: 2012
+    location: JP
+    comments:
+-
+    names: #LS-QUEST
+    area: 0.78
+    FOV: 10
+    etendue: 7.8
+    npix: 57
+    year: 2009
+    location: CL
+    comments:
+-
+    names: LS4
+    area: 0.78
+    FOV: 20
+    etendue: 15.6
+    npix: 512
+    year: 2022
+    location: CL
+    comments:
+-
+    names: LSST
+    area: 33.183
+    FOV: 9.62
+    etendue: 319.22
+    npix: 3200
+    year: 2022
+    location: CL
+    comments:
+-
+    names: PanSTARRS
+    area: 1.857
+    FOV: 7
+    etendue: 13
+    npix: 1400
+    year: 2008
+    location: US
+    comments:
+-
+    names: PTF
+    area: 1.131
+    FOV: 7.3
+    etendue: 8.25
+    npix: 88
+    year: 2009
+    location: US
+    comments:
+-
+    names: SDSS
+    area: 4.9
+    FOV: 4
+    etendue: 19.8
+    npix: 125
+    year: 2006
+    location: US
+    comments:
+-
+    names: Subaru-HSC
+    area: 52.8
+    FOV: 1.5
+    etendue: 79.2
+    npix: 870
+    year: 2012
+    location: US
+    comments:
+-
+    names: SkyMapper
+    area: 0.945
+    FOV: 5.5
+    etendue: 5.2
+    npix: 256
+    year: 2014
+    location: AU
+    comments:
+-
+    names: TESS
+    area: 0.0346
+    FOV: 2304
+    etendue: 79.7184
+    npix: 67
+    year: 2018
+    location: space
+    comments:
+-
+    names: #TMT
+    area: 655
+    FOV: 0.11
+    etendue: 72.7
+    npix: 576
+    year: 2027
+    location: US
+    comments: max FoV, npix assuming 0.05" per pixel
+-
+    names: VISTA
+    area: 13.2
+    FOV: 1.5
+    etendue: 19.8
+    npix: 67
+    year: 2009
+    location: CL
+    comments:
+-
+    names: VST-OmegaCam
+    area: 5.515
+    FOV: 1
+    etendue: 5.52
+    npix: 256
+    year: 2011
+    location: CL
+    comments:
+-
+    names: Roman
+    area: 4.52
+    FOV: 0.28
+    etendue: 1.267
+    npix: 288
+    year: 2025
+    location: space
+    comments:
+-
+    names: ZTF
+    area: 0.906
+    FOV: 47
+    etendue: 42.582
+    npix: 576
+    year: 2018
+    location: US
+    comments: PI * (1.2192 m / 2)**2 * (1-0.224) = 0.906 m^2
